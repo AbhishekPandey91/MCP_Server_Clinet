@@ -1,0 +1,13 @@
+
+
+google-search-results   # For SerpAPI
+langchain
+langchain-community
+langchain-groq
+wikipedia
+python-dotenv
+numexpr
+
+langchain-mcp-adapters
+mcp
+
